@@ -52,7 +52,7 @@
     "shallow-diff": "^0.0.5",
     "stream-browserify": "^2.0.2",
     "stream-chat": "^1.7.0",
-    "uuid": "^3.4.0",
+    "uuid": "^14.0.0",
     "visibilityjs": "^2.0.2"
   },
   "peerDependencies": {
